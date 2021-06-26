@@ -2,7 +2,16 @@
 Boiler plate code for TS based express node server app.
 
 ### Prerequisite
-1. Install node js - `https://nodejs.org/en/download/package-manager/`
+1. Install node js - 
+```
+https://nodejs.org/en/download/package-manager/
+```
+#### OR
+```
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt install nodejs
+node --version
+```
 2. Install typescript - `npm install -g typescript`
 
 ### Steps to run code
