@@ -20,13 +20,13 @@ node --version
 ```
 npm i
 ```
-2. Open 2 terminals
+2. Run commands
 
-  > In first terminal we build the dist folder under watch mode.
+  > If u need to run in dev mode, so that the changes you do in code gets reflected automatically.
   ```
-  npm run build
+  npm run dev
   ```
-  > In second terminal we start the nodemon server.
+  > If you need to run a static single instance 
   ```
   npm run start
   ```
